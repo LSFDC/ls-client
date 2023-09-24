@@ -1,0 +1,43 @@
+|EXE_WinMain_1|防毒軟體中發生異常。|
+|EXE_WinMain_2|王牌對決已執行中。|
+|EXE_WinMain_3|找不到DirectX \r\n請安裝最新版本的DirectX。\r\n(問題編號:301)|
+|EXE_WinMain_4|安裝的DirectX版本過低(%s)\n請安裝最新版本的DirectX \n也請確認顯示卡的驅動程式是否為最新版本\n(問題編號:302)|
+|EXE_WinMain_5|GameGuard錯誤 : %d|
+|EXE_WinMain_6|帳號已被封鎖，請聯繫Garena小幫手\r\n\r\n(錯誤號碼:322)|
+|EXE_WinMain_7|不存在的名稱\r\n\r\n(錯誤號碼:305)|
+|EXE_WinMain_8|使用者認證失敗\r\n\r\n一時接連太多使用者\r\n\r\n可能會發生此狀況\r\n\r\n請稍後再嘗試\r\n\r\n(錯誤號碼:306)|
+|EXE_WinMain_9|重複使用\r\n\r\n請5分鐘之後再次嘗試.\r\n\r\n持續發生同樣的錯誤時\r\n\r\n請向客服中心詢問\r\n\r\n(錯誤號碼:307)|
+|EXE_WinMain_10|發生例外錯誤\r\n\r\n請向客服中心詢問\r\n\r\n(錯誤號碼:308)|
+|EXE_WinMain_11|已超過登入的有效時間\r\n\r\n為了安全起見\r\n\r\n請再次登入\r\n\r\n(錯誤號碼:309)|
+|EXE_WinMain_12|伺服器正在維護中\r\n\r\n請前往公告確認\r\n\r\n請稍後再使用\r\n\r\n(錯誤號碼:310)|
+|EXE_WinMain_13|版本發生錯誤\r\n\r\n請前往公告確認r\n\r\n請稍後再使用\r\n\r\n(錯誤號碼:312)|
+|EXE_WinMain_14|版本發生錯誤\r\n\r\n請稍後再使用\r\n\r\n(錯誤號碼:323)|
+|EXE_ErrorDlgProc_1|--- 系統規格 ---\r\n%s\r\n\r\n--- 問題資訊 ---\r\n%s|
+|EXE_CLogin::OnConnect_1|帳號已被封鎖，請聯繫Garena小幫手\r\n\r\n(錯誤號碼:322)|
+|EXE_CLogin::OnConnect_2|不存在的名稱\r\n\r\n(錯誤號碼:305)|
+|EXE_CLogin::OnConnect_3|使用者認證失敗\r\n\r\n一時接連太多使用者\r\n\r\n可能會發生此狀況\r\n\r\n請稍後再嘗試\r\n\r\n(錯誤號碼:306)|
+|EXE_CLogin::OnConnect_4|重複使用\r\n\r\n請5分鐘之後再次嘗試.\r\n\r\n持續發生同樣的錯誤時\r\n\r\n請向客服中心詢問\r\n\r\n(錯誤號碼:307)|
+|EXE_CLogin::OnConnect_5|發生例外錯誤\r\n\r\n請向客服中心詢問\r\n\r\n(錯誤號碼:308)|
+|EXE_CLogin::OnConnect_6|已超過登入的有效時間\r\n\r\n為了安全起見\r\n\r\n請再次登入\r\n\r\n(錯誤號碼:309)|
+|EXE_CLogin::OnConnect_7|伺服器正在維護中\r\n\r\n請前往公告確認\r\n\r\n請稍後再使用\r\n\r\n(錯誤號碼:310)|
+|EXE_CLogin::OnConnect_8|版本發生錯誤\r\n\r\n請前往公告確認r\n\r\n請稍後再使用\r\n\r\n(錯誤號碼:312)|
+|EXE_CLogin::OnConnect_9|版本發生錯誤\r\n\r\n請稍後再使用\r\n\r\n(錯誤號碼:323)|
+|EXE_ioNProtect::GetStartErrorMsg_1|GameGuard執行中。 請稍後重新開機後再次執行。|
+|EXE_ioNProtect::GetStartErrorMsg_2|遊戲重複執行或是GameGuard已經執行中。請結束遊戲後重新執行。|
+|EXE_ioNProtect::GetStartErrorMsg_3|GameGuard初始化問題。請重新執行或是結束其他衝突的程式後再次執行。|
+|EXE_ioNProtect::GetStartErrorMsg_4|GameGuard檔案不存在或是遭竄改了。請刪除GameGuard資料夾後重新執行遊戲。|
+|EXE_ioNProtect::GetStartErrorMsg_5|OS的部分檔案受損。請重新安裝瀏覽器 (IE)。 |
+|EXE_ioNProtect::GetStartErrorMsg_6|執行GameGuard失敗。請刪除GameGuard資料夾後重新執行遊戲。|
+|EXE_ioNProtect::GetStartErrorMsg_7|發現異常程式。請協助關閉非必需的程式後再次執行。|
+|EXE_ioNProtect::GetStartErrorMsg_8|GameGuard的更新失敗了。如果無法連線則嘗試調整網路或個人防火牆設定。|
+|EXE_ioNProtect::GetStartErrorMsg_9|連線GameGuard更新伺服器失敗。請稍後再次嘗試或是請檢查網路狀態。|
+|EXE_ioNProtect::GetStartErrorMsg_10|GameGuard初始化失敗或是GameGuard版本過舊。請刪除GameGuard資料夾後重新執行遊戲。|
+|EXE_ioNProtect::GetStartErrorMsg_11|ini 檔案不存在或是遭竄改了。請完整移除王牌對決檔案後，重新下載安裝修復此問題。|
+|EXE_ioNProtect::GetStartErrorMsg_12|npgmup.des 初始化問題。請刪除GameGuard資料匣後重新執行遊戲。|
+|EXE_ioNProtect::GetStartErrorMsg_13|GameGuard更新伺服器連接失敗。請稍後嘗試或是調整個人防火牆。|
+|EXE_ioNProtect::GetStartErrorMsg_14|GameGuard更新未完成。請暫時關閉防毒軟體或是任何會阻擋更新的程式。|
+|EXE_ioNProtect::GetStartErrorMsg_15|防毒與外掛檢查失敗。可能是記憶體不足或是受電腦病毒感染。|
+|EXE_ioNProtect::GetStartErrorMsg_16|發現與GameGuard衝突的程式。|
+|EXE_ioNProtect::GetStartErrorMsg_17|GameGuard執行中發生錯誤。請把程式資料內的GameGuard資料匣中的*.erl檔案提供至Game1@inca.co.kr。|;
+|EXE_ioSP2TCPSocket::DisconnectProcess_1|王牌對決遊戲|
+|EXE_ioSP2TCPSocket::DisconnectProcess_2|由於與伺服器的連線中斷\n\n將終止遊戲。|

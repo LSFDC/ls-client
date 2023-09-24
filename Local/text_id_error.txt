@@ -1,0 +1,23 @@
+|EXE_WinMain_1|Terjadi Error di Security Program.| 
+|EXE_WinMain_2|Lost Saga sudah berjalan.| 
+|EXE_WinMain_3|    Tidak dapat menemukan DirectX\r\nSilahkan install DirectX yang terbaru.\r\n(Error Code:301)| 
+|EXE_WinMain_4|Versi DirectX yang install terlalu rendah(%1)\nSilahkan install  DirectX yang terbaru\nDan silahkan cek juga versi Driver Graphic Card.\n(Error Code:302)| 
+|EXE_WinMain_5|Game Guard Error : %1|  
+|EXE_ErrorDlgProc_1|--- Spesifikasi System ---\r\n%1\r\n\r\n--- Info Error ---\r\n%2| 
+|EXE_ioNProtect::GetStartErrorMsg_1|Game Guard sedang berjalan. Silahkan coba beberapa saat lagi atau setelah reboot.| 
+|EXE_ioNProtect::GetStartErrorMsg_2|Game sudah berjalan atau Game Guard sedang berjalan. Silahkan coba lagi seteleh keluar dari game.| 
+|EXE_ioNProtect::GetStartErrorMsg_3|Terjadi error saat mereset Game guard. SIlahkan coba lagi seteleh reboot atau seteleh menutup program-program yang kemungkinan berpengaruh ke game.| 
+|EXE_ioNProtect::GetStartErrorMsg_4|Tidak ada file Game Guard atau telah dimodifikasi.Silahkan setup Game Guard file.| 
+|EXE_ioNProtect::GetStartErrorMsg_5|Ada beberapa system file Windows yang rusak. Silahkan install ulang Internet Explorer.| 
+|EXE_ioNProtect::GetStartErrorMsg_6|Gagal menjalankan Game Guard. Silahkan install ulang Game Guard Setup File.| 
+|EXE_ioNProtect::GetStartErrorMsg_7|Terdeteksi program illegal. Silahkan coba lagi setelah menutup program illegal.| 
+|EXE_ioNProtect::GetStartErrorMsg_8|Telah membatalkan update Game Guard. Jika tidak bisa connect silakan cek Jaringan Internet atau setting Firewall.| 
+|EXE_ioNProtect::GetStartErrorMsg_9|Gagal connect ke Game Guard update server. Silahkan coba beberapa saat lagi atau silahkan cek kondisi jaringan.| 
+|EXE_ioNProtect::GetStartErrorMsg_10|Error reset Game Guard atau versi file Game Guard yang lama. Silahkan jalankan kembali setelah setup ulang Game Guard.| 
+|EXE_ioNProtect::GetStartErrorMsg_11|Tidak ada file ini atau telah dimodifikasi. Silahkan coba install Game Guard setup file.| 
+|EXE_ioNProtect::GetStartErrorMsg_12|Error mereset file npgmup.des.Silahkan jalankan game kembali setelah menghapus folder Game Guard.| 
+|EXE_ioNProtect::GetStartErrorMsg_13|Gagal connect ke Game Guard Update Server. Silahkan coba beberapa saat lagi atau silahkan cek setting Firewall.| 
+|EXE_ioNProtect::GetStartErrorMsg_14|Tidak dapat menyelesaikan Game Guard Update. SIlahkan coba lagi setelah menon-aktifkan anti-virus untuk sementara waktu.| 
+|EXE_ioNProtect::GetStartErrorMsg_15|Gagal loading Module untuk mengecek virus atau hacking tool. Kekurangan Memory atau telah terkena virus.| 
+|EXE_ioNProtect::GetStartErrorMsg_16|Ada program yang mempengaruhi jalannya Game Guard.| 
+|EXE_ioNProtect::GetStartErrorMsg_17|Telah terjadi error saat menjalankan Game Guard. Silahkan mengirim email ke Game2@inca.co.kr sertakan file *erl yang ada di dalam folder Game Guard di Folder Game.|; 

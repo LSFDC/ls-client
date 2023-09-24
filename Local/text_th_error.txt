@@ -1,0 +1,6 @@
+|EXE_WinMain_1|เกิด error จา?Security Program| 
+|EXE_WinMain_2|lostsaga Run อยู่ก่อนแล้ว| 
+|EXE_WinMain_3|    ไม่สามารถค้นหา DirectX ได?r\nกรุณ?install DirectX เวอร์ชั่นล่าสุ?r\n(Error Num:301)| 
+|EXE_WinMain_4|DirectX ที?install เป็น version เก่า(%1)\nกรุณ?install DirectX เวอร์ชั่นล่าสุ?n driver ขอ?Graphics card เป็นเวอร์ชั่นล่าสุดหรือไม่นั้น กรุณาตรวจสอบด้วย\n(Error Num:302)|
+|EXE_WinMain_6|เกิดปั?าที่ฟังชั่นการป้องกันการแฮ?(%1)| 
+|EXE_ErrorDlgProc_1|--- system specification ---\r\n%1\r\n\r\n--- ?อมูล error ---\r\n%2|; 
